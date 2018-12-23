@@ -1,0 +1,64 @@
+{
+  "mods": [
+    {
+      "name": "base",
+      "enabled": true
+    },
+    {
+      "name": "alien-biomes",
+      "enabled": true
+    },
+    {
+      "name": "all-tiles-stack-1k",
+      "enabled": true
+    },
+    {
+      "name": "auto-research",
+      "enabled": true
+    },
+    {
+      "name": "beautiful_bridge_railway",
+      "enabled": true
+    },
+    {
+      "name": "CanalBuilder",
+      "enabled": true
+    },
+    {
+      "name": "cargo-ships",
+      "enabled": true
+    },
+    {
+      "name": "FNEI",
+      "enabled": true
+    },
+    {
+      "name": "islands_world",
+      "enabled": true
+    },
+    {
+      "name": "MoreSciencePacks",
+      "enabled": true
+    },
+    {
+      "name": "OberNuclear",
+      "enabled": true
+    },
+    {
+      "name": "ships_extended",
+      "enabled": true
+    },
+    {
+      "name": "SpaceMod",
+      "enabled": true
+    },
+    {
+      "name": "SpaceXGAR",
+      "enabled": true
+    },
+    {
+      "name": "Squeak Through",
+      "enabled": true
+    }
+  ]
+}
